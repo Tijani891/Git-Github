@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This README provides step-by-step instructions for fixing a bug by merging changes from two different branches in a Git repository. Merging branches is a common practice to integrate code changes from feature branches into the main branch (e.g., `main` or `master`).
+This README provides step-by-step instructions for fixing a bug by merging changes from two different branches in a Git repository. Merging branches is a common practice to integrate code changes from feature branches into the main branch.
 
 ## Prerequisites
 
